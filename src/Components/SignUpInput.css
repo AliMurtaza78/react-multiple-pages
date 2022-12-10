@@ -1,0 +1,21 @@
+.main-container{
+    display: grid;
+    background-color: rgb(47, 202, 192);
+    height: 500px;
+    margin: auto;
+    width: 40%;
+    border: 3px solid #ad21210a;
+    padding: 10px;
+    margin-top: 60px;
+}
+
+.input-div{
+    display: grid;
+    align-content: space-evenly;
+}
+
+.input-div header{
+    font-size:xx-large;
+    text-align: left ;
+    font-weight: 500;
+}
